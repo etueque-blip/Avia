@@ -11,6 +11,7 @@
 | `f35c.glb` | F-35C |
 | `rafale.glb` | Рафаль |
 | `f4e.glb`, `a4.glb`, `av8b.glb`, `j7.glb`, `mir.glb` | остальные |
+| `b2.glb` | B-2 Спирит |
 | `cockpit.glb` | кабина |
 
 Пример `config.json`:
