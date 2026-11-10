@@ -21,3 +21,18 @@
 ```
 - `flip: true` — если самолёт летит хвостом вперёд.
 - `scale` — подправить размер, `rotY` — повернуть (в радианах).
+
+## Установленные модели (Sketchfab)
+| Файл | Модель | Автор | Лицензия |
+|---|---|---|---|
+| f16.glb | F16 with streamline and afterburner | MrrrBoB | CC BY 4.0 |
+| rafale.glb | Dassault Rafale | andertan | CC BY 4.0 |
+| fa18.glb | Boeing F/A-18E/F Super Hornet | andertan | CC BY 4.0 |
+| su33.glb | Sukhoi Su-33 | andertan | CC BY 4.0 |
+| av8b.glb | AV-8B Harrier II | 42manako | CC BY 4.0 |
+| mir.glb | Dassault Mirage 2000 | bohmerang | CC BY-NC-SA 4.0 |
+| f35c.glb | F-35 Lightning II | bohmerang | CC BY-NC-SA 4.0 |
+| mig29.glb | MiG-29 | bohmerang | CC BY-NC-SA 4.0 |
+| f4e.glb | F-4 Phantom II | bohmerang | CC BY-NC-SA 4.0 |
+
+Модели CC BY-NC-SA нельзя использовать в коммерческих целях (продажа игры, реклама).

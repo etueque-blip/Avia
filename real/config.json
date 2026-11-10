@@ -1,1 +1,8 @@
-{"models":[]}
+{"models":["f16","fa18","su33","mig29","f35c","rafale","f4e","av8b","mir"],
+ "f16":{"flip":true},
+ "rafale":{"flip":true},
+ "av8b":{"flip":true},
+ "mig29":{"hide":["landingOn"]},
+ "f35c":{"hide":["landingOn"]},
+ "f4e":{"hide":["landingOn"]},
+ "mir":{"hide":["landingOn"]}}
