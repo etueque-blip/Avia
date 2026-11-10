@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://etueque-blip.github.io/Avia/sitemap.xml
