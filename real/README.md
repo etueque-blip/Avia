@@ -35,5 +35,6 @@
 | f35c.glb | F-35 Lightning II | bohmerang | CC BY-NC-SA 4.0 |
 | mig29.glb | MiG-29 | bohmerang | CC BY-NC-SA 4.0 |
 | f4e.glb | F-4 Phantom II | bohmerang | CC BY-NC-SA 4.0 |
+| b2.glb | Northrop Grumman B-2 Spirit (текстуры уменьшены до 2048) | bohmerang | CC BY-NC-SA 4.0 |
 
 Модели CC BY-NC-SA нельзя использовать в коммерческих целях (продажа игры, реклама).
