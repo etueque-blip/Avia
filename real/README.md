@@ -36,5 +36,8 @@
 | mig29.glb | MiG-29 | bohmerang | CC BY-NC-SA 4.0 |
 | f4e.glb | F-4 Phantom II | bohmerang | CC BY-NC-SA 4.0 |
 | b2.glb | Northrop Grumman B-2 Spirit (текстуры уменьшены до 2048) | bohmerang | CC BY-NC-SA 4.0 |
+| j7.glb | MIG-21 Fishbed (один самолёт из трёх, текстуры 1024) | NETRUNNER_pl | CC BY 4.0 |
+| a4.glb | Douglas A-4 Skyhawk (упрощён 590k → 63k треугольников) | johnnokomis | CC BY 4.0 |
+| cockpit.glb | F-16 Block 50/52 Cockpit | rukh | CC BY 4.0 |
 
 Модели CC BY-NC-SA нельзя использовать в коммерческих целях (продажа игры, реклама).
